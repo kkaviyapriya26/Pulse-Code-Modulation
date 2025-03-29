@@ -3,7 +3,6 @@
 To generate a Pulse Code Modulated (PCM) signal by modulating a message signal with a pulse train and reconstruct the original signal.
 
 ## Tools required
-- Personal Computer with Scilab
 - Python IDE (Numpy)
 ## Program
 ~~~
